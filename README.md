@@ -52,6 +52,3 @@ PUT /produtos/{id}
 Remover um produto por ID:
 DELETE /produtos/{id}
 
-bash
-Copy code
-DELETE /produtos/{id}
